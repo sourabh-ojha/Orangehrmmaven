@@ -24,7 +24,7 @@ public class Demopage {
 		
 		String data [][] = null;
 		
-		String excelpath = "C:\\Users\\HP\\Documents\\Orangehrmtesting.xls";
+		String excelpath = "Orangehrmtesting.xls";
 		
 		FileInputStream fis = new FileInputStream(excelpath);
 
